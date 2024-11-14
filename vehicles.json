@@ -4,19 +4,43 @@
       "registration_no": "ABC1234",
       "model": "Honda Civic",
       "cc": 1800,
-      "color": "Red"
+      "color": "Red",
+      "vehicle_type": "Car"
     },
     {
       "registration_no": "XYZ5678",
       "model": "Toyota Corolla",
       "cc": 1600,
-      "color": "Blue"
+      "color": "Blue",
+      "vehicle_type": "Car"
     },
     {
       "registration_no": "JKL9012",
       "model": "Proton X70",
       "cc": 1500,
-      "color": "White"
+      "color": "White",
+      "vehicle_type": "SUV"
+    },
+    {
+      "registration_no": "MNO3456",
+      "model": "Yamaha R15",
+      "cc": 150,
+      "color": "Black",
+      "vehicle_type": "Motorcycle"
+    },
+    {
+      "registration_no": "PQR6789",
+      "model": "Ford Transit",
+      "cc": 2400,
+      "color": "Silver",
+      "vehicle_type": "Van"
+    },
+    {
+      "registration_no": "STU1234",
+      "model": "Cessna 172",
+      "cc": 3600,
+      "color": "White",
+      "vehicle_type": "Plane"
     }
   ]
 }

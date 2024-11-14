@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "registration_no": "ABC1234",
+      "model": "Honda Civic",
+      "cc": 1800,
+      "color": "Red"
+    },
+    {
+      "registration_no": "XYZ5678",
+      "model": "Toyota Corolla",
+      "cc": 1600,
+      "color": "Blue"
+    },
+    {
+      "registration_no": "JKL9012",
+      "model": "Proton X70",
+      "cc": 1500,
+      "color": "White"
+    }
+  ]
+}

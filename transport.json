@@ -4,17 +4,17 @@
         "ST_VEHICLE_NO": "BHP 4205",
         "ST_VEHICLE_TYPE": "KELISA",
         "ST_VEHICLE_CC": 850,
-        "ST_VEHICLE": "",
+        "ST_VEHICLE": "CAR",
         "ST_VEHICLE_COLOUR": "RED",
-        "ST_VEHICLE_BRAND": "PERODUA"
+        "ST_VEHICLE_BRAND": ""
     },
     {
         "ST_STAFF_ID": "01169",
         "ST_VEHICLE_NO": "DBW 8732",
         "ST_VEHICLE_TYPE": "VIOS",
         "ST_VEHICLE_CC": 1500,
-        "ST_VEHICLE": "",
-        "ST_VEHICLE_COLOUR": "WHITE",
+        "ST_VEHICLE": "CAR",
+        "ST_VEHICLE_COLOUR": "",
         "ST_VEHICLE_BRAND": "TOYOTA"
     },
     {

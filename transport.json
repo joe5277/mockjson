@@ -25,5 +25,14 @@
         "ST_VEHICLE": "",
         "ST_VEHICLE_COLOUR": "SILVER",
         "ST_VEHICLE_BRAND": "PERODUA"
+    },
+    {
+        "ST_STAFF_ID": "01169",
+        "ST_VEHICLE_NO": "DDD 888",
+        "ST_VEHICLE_TYPE": "VF3I",
+        "ST_VEHICLE_CC": 180,
+        "ST_VEHICLE": "MOTORCYCLE",
+        "ST_VEHICLE_COLOUR": "BLUE",
+        "ST_VEHICLE_BRAND": "SYM"
     }
 ]
